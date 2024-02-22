@@ -1,0 +1,47 @@
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.product-card {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 400px;
+}
+
+.product-image {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.product-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.product-details {
+    flex: 2;
+}
+
+.product-title {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.product-description {
+    color: #666;
+}
+
+.product-price {
+    color: green;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.product-stock {
+    color: #333;
+}
