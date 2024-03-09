@@ -1,3 +1,7 @@
+debounce_js :
+
+- It is a concept in js where a function is called after waiting a specific period of time. In this, code is written showing the debounce concept and throttling. Throttling is limiting technique which allow a function to be called a specific number of times in given time.
+
 fetchAndShow_with_js :
 
 - In this , just fetch the data from an api and display it on screen. It is done using html, css and js.
