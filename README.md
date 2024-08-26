@@ -1,3 +1,7 @@
+# counter :
+
+- counter app in react - increase or decrease counter in react .
+
 # display_user_input :
 
 - shows user input in react - basic concept of react.
