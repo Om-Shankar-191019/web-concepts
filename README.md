@@ -1,3 +1,7 @@
+# display_user_input :
+
+- shows user input in react - basic concept of react.
+
 # admissionForm :
 
 - a form submission project built using react and express (MERN) .
